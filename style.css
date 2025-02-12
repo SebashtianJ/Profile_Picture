@@ -1,0 +1,85 @@
+/* Fonts */
+.lato-thin {
+    font-family: "Lato", serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .lato-light {
+    font-family: "Lato", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .lato-regular {
+    font-family: "Lato", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .lato-bold {
+    font-family: "Lato", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .lato-black {
+    font-family: "Lato", serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+
+/* Main */
+body {
+  font-family: "Lato", serif;
+  margin: 5;
+  padding: 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Lato", serif;
+  background-color: #ff9eff;
+  color: white;
+  text-align: center;
+  font-size: 45px;
+}
+
+h2 {
+  font-family: "Lato", serif;
+  color: black;
+  text-align: center;
+  font-size: 35px;
+}
+
+p {
+  font-family: "Lato", serif;
+  color: black;
+  text-align: center;
+  font-size: 20px;
+}
+
+img {
+  text-align: center;
+  float: center;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 50%;
+  border-width: 5px;
+  border-style: solid;
+  width: 10%;
+  height: 10%;
+}
+
+/* Font Awesome */
+.fa-youtube {
+  color: red;
+}
+
+.fa-discord {
+  color: #7289da;
+}
+
+.fa-twitter {
+  color: #1DA1F2;
+}
